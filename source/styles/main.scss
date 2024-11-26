@@ -1,0 +1,10 @@
+@use 'var';
+
+body{
+    background-color: var.$corDeFundo;
+    
+    color: var.$corFonte;
+}
+header{
+    background-color: var.$corHeader;
+}
